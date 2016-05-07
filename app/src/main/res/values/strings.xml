@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stock USB Fix</string>
+    <string name="fixusb">Fix USB</string>
+    <string name="fixusbatboot">Fix USB At Boot</string>
+</resources>
